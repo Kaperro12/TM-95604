@@ -1,3 +1,3 @@
 FROM alpine
 
-ENTRYPOINT echo "Hello - Student ID: $95604"
+ENTRYPOINT echo "Hello - Student ID: $STUDENT_ID"
