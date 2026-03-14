@@ -1,0 +1,10 @@
+*.log
+*.tmp
+temp/
+tmp/
+venv/
+node_modules/
+.DS_Store
+Thumbs.db
+.idea/
+__pycache__/
