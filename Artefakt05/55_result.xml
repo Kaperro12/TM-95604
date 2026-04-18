@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="Artefakt05ConsistencyTest" tests="2" failures="1"><testcase name="Identyfikacja Aplikacji"><system-out>Pakiet io.appium.android.apis poprawnie zmapowany.</system-out></testcase><testcase name="Dostępność UI"><failure message="Nie odnaleziono ID 'ACCESSIBILITY'. Sugestia: zweryfikuj czy element nie zmienił nazwy na jedną z dostępnych: ['ADD', 'TEXT', 'LOCALVIDEO'].">INFORMACJA</failure></testcase></testsuite>

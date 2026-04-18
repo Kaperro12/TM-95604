@@ -1,0 +1,6 @@
+{
+    "platformName": "Android",
+    "appium:automationName": "UiAutomator2",
+    "appium:appPackage": "io.appium.android.apis",
+    "appium:appActivity": "io.appium.android.apis.ApiDemos"
+}
