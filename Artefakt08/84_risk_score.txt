@@ -1,0 +1,12 @@
+>>> ZADANIE 8.4: OBLICZANIE SECURITY SCORE <<<
+
+[WYNIK KOŃCOWY]: 0/100
+[STATUS]: REJECTED
+
+Potrącenia punktów:
+- [-30] Flaga Debuggable jest AKTYWNA (High Risk)
+- [-25] Wykryto 5 ryzykownych uprawnień (Low Risk)
+- [-20] Poważna luka w com.google.android.gms:10.0.1 (High)
+- [-10] Średnia luka w com.squareup.okhttp:2.7.5 (Medium)
+- [-40] Krytyczna luka w org.apache.commons:1.0.0 (Critical)
+- [-5] Niska luka w com.android.support:25.0.0 (Low)
