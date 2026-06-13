@@ -1,0 +1,5 @@
+{
+    "status": 500,
+    "message": "Internal Server Error",
+    "endpoint": "/api/mobile/user/profile"
+}

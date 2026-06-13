@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1","test_api_connection_failed","","2026-06-13","failed","2026-06-13","","test_101_allure_init","",""
+"","0","test_api_connection_passed","","2026-06-13","passed","2026-06-13","","test_101_allure_init","",""
+"","0","Test z automatycznym załącznikiem screenshotu i odpowiedzi API","","2026-06-13","failed","2026-06-13","","test_103_attachments","",""
+"Weryfikacja poprawnego logowania użytkownika administracyjnego.","0","Test logowania administratora","","2026-06-13","passed","2026-06-13","","test_102_meta_reporting","",""
+"Sprawdzenie poprawności pobrania danych użytkownika.","0","Test wyświetlania profilu użytkownika","","2026-06-13","passed","2026-06-13","","test_102_meta_reporting","",""

@@ -1,0 +1,6 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","1","10.1: Inicjalizacja Allure","0","0","Test kontrolny zakończony błędem","0"
+"0","","0","10.1: Inicjalizacja Allure","1","0","Pierwszy raport testowy","0"
+"0","Blok 10 - Raportowanie","1","10.3: Failure Screenshots","0","0","Załączniki przy błędzie testu","0"
+"0","Blok 10 - Raportowanie","0","10.2: Meta-dane","1","0","Priorytet krytyczny","0"
+"0","Blok 10 - Raportowanie","0","10.2: Meta-dane","1","0","Priorytet średni","0"
